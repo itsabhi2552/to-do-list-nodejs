@@ -1,0 +1,1 @@
+[null,null,null,{"task":"1st task","image":"ef1cfd394a7153d67b60deb1a0dd4ac9","checked":false},null,null,null,{"task":"2nd task","image":"2e9208904d4fdf43b5b7ef90638feb23","checked":false},{"task":"3rd task","image":"272eb9c5bc72cbbaa090082f83a264cd","checked":false}]

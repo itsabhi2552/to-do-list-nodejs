@@ -1,0 +1,15 @@
+#col1 {
+    height: 100vh;
+    background-color: rgb(220, 220, 220);
+    overflow: hidden;
+}
+
+#col2 {
+    height: 100vh;
+    overflow: hidden;
+}
+
+#task-container {
+    height: 65vh;
+    overflow-y: auto;
+}
